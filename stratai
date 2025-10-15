@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>HR AI Strategy Playbook</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body { font-family: 'Segoe UI', Arial, sans-serif; background: #f5f7fa; margin: 0; padding: 0; }
+    header { background: #0e1a40; color: #ffa726; padding: 2rem; text-align: center; }
+    main { max-width: 800px; margin: 2rem auto; background: #fff; padding: 2rem; border-radius: 12px; box-shadow: 0 4px 18px rgba(0,0,0,.09);}
+    h1 { margin-bottom: 0.2em; }
+    h2 { color: #0e1a40; margin-top: 2em;}
+    .doodle { float: right; margin-left: 20px; border-radius: 8px;}
+    ul, ol { margin-left: 1.5em; }
+    section { margin-bottom: 2.5em; }
+    .pill { display: inline-block; background: #e0f7fa; color: #0e1a40; padding: 0.3em 0.9em; border-radius: 20px; font-size: 0.95em; margin: 0.2em;}
+    .footer { text-align: center; color: #8392a7; margin-top: 3rem; font-size: 1em;}
+  </style>
+</head>
+<body>
+  <header>
+    <h1>AI Strategy for HR Leaders</h1>
+    <div>Empowering HR with Artificial Intelligence & Automation</div>
+  </header>
+  <main>
+    <section>
+      <h2>Vision & Goals</h2>
+      <ul>
+        <li>Modernize HR operations with data-driven automation</li>
+        <li>Enhance employee experience using intelligent tools</li>
+        <li>Leverage AI for unbiased talent acquisition and retention</li>
+        <li>Use analytics for continuous improvement & forecasting</li>
+      </ul>
+    </section>
+    <section>
+      <h2>Strategic Pillars</h2>
+      <span class="pill">AI-Powered Recruiting</span>
+      <span class="pill">People Analytics</span>
+      <span class="pill">Employee Experience</span>
+      <span class="pill">Talent Development</span>
+      <span class="pill">Process Automation</span>
+      <span class="pill">Ethics & Compliance</span>
+    </section>
+    <section>
+      <h2>Project Examples</h2>
+      <ul>
+        <li><strong>Resume Screening Bot</strong> – Reduce bias and speed up candidate reviews</li>
+        <li><strong>AI-driven Pulse Surveys</strong> – Real-time sentiment analysis</li>
+        <li><strong>Predictive Attrition Models</strong> – Forecast turnover risks and take action</li>
+        <li><strong>Conversational Onboarding Assistant</strong> – 24/7 digital HR help desk</li>
+      </ul>
+    </section>
+    <section>
+      <h2>Key Tools & Frameworks</h2>
+      <ul>
+        <li>Chatbots <em>(ex: Microsoft Power Virtual Agents, SAP SuccessFactors)</em></li>
+        <li>People analytics platforms <em>(Visier, Workday, AI-driven dashboards)</em></li>
+        <li>RPA <em>(Robotic Process Automation: UiPath, Blue Prism)</em></li>
+        <li>Responsible AI & Ethical AI frameworks</li>
+      </ul>
+    </section>
+    <section>
+      <h2>AI in Action (Doodle Visual)</h2>
+      <img class="doodle" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Simple_AI_illustration.png" alt="AI Doodle Example" width="220">
+      <ul>
+        <li>
+          <span class="pill">Automation</span>
+          <span class="pill">Chatbots</span>
+          <span class="pill">Data Visualization</span>
+        </li>
+        <li>Visualize HR's AI future — use sketches and doodles during workshops!</li>
+      </ul>
+    </section>
+    <section>
+      <h2>Success Metrics</h2>
+      <ul>
+        <li>Time-to-hire reduction</li>
+        <li>Employee engagement scores</li>
+        <li>Process automation ROI</li>
+        <li>Compliance and data quality improvements</li>
+      </ul>
+    </section>
+    <section>
+      <h2>References & Resources</h2>
+      <ul>
+        <li><a href="https://emerj.com/ai-sector-overviews/artificial-intelligence-hr/" target="_blank">Emerj: AI in HR</a></li>
+        <li><a href="https://www.shrm.org/resourcesandtools/hr-topics/technology/pages/ai-in-hr.aspx" target="_blank">SHRM: AI in HR</a></li>
+        <!-- Add more relevant links or resources specific to your org -->
+      </ul>
+    </section>
+  </main>
+  <div class="footer">
+    &copy; 2025 - HR AI Strategy Playbook. Customize this template for your team!
+  </div>
+</body>
+</html>
